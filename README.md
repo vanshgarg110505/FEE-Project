@@ -1,4 +1,4 @@
-# FEE-Project
+# ITALIAN-RESTAURANT WEBSITE
 
 Buon Appetito! - A Simple Responsive Italian Restaurant Website Template
 Immerse your website visitors in the warm ambience of your Italian restaurant with this easy-to-use template.
